@@ -5,8 +5,9 @@ int main ()
 {
     int a,b;
     cout<<"Enter the value of a: "<<endl;
-    cin>>a;
+    cin>>a
     cout<<"Enter the value of b:"<<endl;
-    cin>>b;
+    cin>>b
     cout<<"a==b:"<<(a==b)<<endl;
+
 }
